@@ -4,6 +4,10 @@ body{
 
 header{
     padding: 10px 0px 10px 10px;
+    float: left;
+}
+header a, header h2{
+    display:inline;
 }
 
 nav ul{
