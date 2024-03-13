@@ -1,26 +1,35 @@
 body{
-    background-color: #fffcf7;
+    background-color: #ffffff;
 }
 
 header{
-    padding: 10px;
+    padding: 10px 0px 10px 10px;
 }
 
-nav{
-    
+nav ul{
+    list-style: none;
+    margin-right: 0px;
+    padding-bottom: 30px;
 }
 nav li{
     padding: 10px;
     display: inline;
-    float: left;
+    float: right;
+}
+nav a{
+    text-decoration: none;
+    color: black;
 }
 
 main{
     padding:30px;
 }
 
-.contact{
-    display: block;
+
+
+.contact div{
+    display:block
+
 }
 
 /*c2d8b9, e4f0d0, fffcf7, a1b5d8, 738290*/
