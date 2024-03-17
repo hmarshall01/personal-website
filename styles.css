@@ -2,6 +2,9 @@ body{
     background-color: #ffffff;
 }
 
+#wrapper{
+    margin: auto;
+}
 header{
     padding: 10px 0px 10px 10px;
     float: left;
@@ -28,12 +31,19 @@ nav a{
 main{
     padding:30px;
 }
+main h2{
+    text-align: center;
+}
 
 
 
 .contact div{
-    display:block
+    display:block;
+}
 
+footer{
+    padding: 10px 40%;
+    background-color: #c2d8b9;
 }
 
 /*c2d8b9, e4f0d0, fffcf7, a1b5d8, 738290*/
