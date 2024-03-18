@@ -1,25 +1,30 @@
 body{
-    background-color: #ffffff;
+    background-color: #e4f0d0;
     margin-top: 0;
     padding-top: 0;
 }
 
 #wrapper{
     margin: auto;
+    background-color: #fff;
+    width: 96%;
 }
 header{
-    padding: 10px 0px 10px 10px;
-    margin-top: 0;
+    padding: 10px;
     float: left;
+    color: #fff;
 }
 header a, header h2{
     display:inline;
 }
+header h2{
+    margin-left: 30px;
+    padding:30px;
+}
 nav{
     background-color: #738290;
-    height: 50px;
-    margin-top: 0;
-    padding-top: 0;
+    height: 70px;
+    padding: 10px;
 }
 
 nav ul{
@@ -34,7 +39,7 @@ nav li{
 }
 nav a{
     text-decoration: none;
-    color: black;
+    color: #fff;
 }
 
 main{
