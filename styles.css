@@ -2,6 +2,7 @@ body{
     background-color: #e4f0d0;
     margin-top: 0;
     padding-top: 0;
+    align-items: center;
 }
 
 #wrapper{
@@ -43,6 +44,7 @@ nav a{
 
 main{
     padding:30px;
+    display:block;
 }
 main h2{
     text-align: center;
