@@ -1,5 +1,7 @@
 body{
     background-color: #ffffff;
+    margin-top: 0;
+    padding-top: 0;
 }
 
 #wrapper{
@@ -7,10 +9,17 @@ body{
 }
 header{
     padding: 10px 0px 10px 10px;
+    margin-top: 0;
     float: left;
 }
 header a, header h2{
     display:inline;
+}
+nav{
+    background-color: #738290;
+    height: 50px;
+    margin-top: 0;
+    padding-top: 0;
 }
 
 nav ul{
